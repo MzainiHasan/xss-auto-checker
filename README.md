@@ -1,8 +1,9 @@
 # 🛡️ XSS Auto Checker
 
-[![Author](https://img.shields.io/badge/made%20by-himurasan9-blue)](https://github.com/himurasan9)
+[![Author](https://img.shields.io/badge/author-Hasan-blue)](https://github.com/MzainiHasan)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.x-yellow)](https://www.python.org/)
+
 
 > 🔎 Skrip sederhana untuk menemukan **Reflected XSS** secara otomatis dari parameter umum di URL target.
 
