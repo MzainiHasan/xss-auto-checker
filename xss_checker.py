@@ -2,7 +2,7 @@ import requests
 from urllib.parse import urlencode
 
 params_to_test = ["id", "page", "search", "module", "query", "keyword", "term"]
-base_url = "https://sima.pom.go.id/index.php/faqs"
+base_url = "https://taret.com/index.php/faqs"
 
 payloads = [
     "<script>alert(1)</script>",
